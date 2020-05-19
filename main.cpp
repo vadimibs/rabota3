@@ -114,7 +114,6 @@ int main()
     cout <<"Vvodite: ";
     cin >> vibor;
     cout << endl;
- 
 }
     case 4:{
     cout << "Vi vibrali divan." << endl;
@@ -151,3 +150,4 @@ int main()
 }
 }
 }
+

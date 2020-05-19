@@ -114,10 +114,7 @@ int main()
     cout <<"Vvodite: ";
     cin >> vibor;
     cout << endl;
-<<<<<<< HEAD
-=======
-    //goto a;
->>>>>>> master
+
 }
     case 4:{
     cout << "Vi vibrali divan." << endl;
@@ -154,7 +151,3 @@ int main()
 }
 }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> master
